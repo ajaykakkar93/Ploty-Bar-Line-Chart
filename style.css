@@ -1,0 +1,12 @@
+.modebar-btn.plotlyjsicon.modebar-btn--logo,
+.js-plotly-plot .plotly .modebar-btn[data-title="Lasso Select"],
+.js-plotly-plot .plotly .modebar-btn[data-title="Box Select"],
+.js-plotly-plot .plotly .modebar-btn[data-title="Zoom"],
+.js-plotly-plot .plotly .modebar-btn[data-title="Pan"],
+.js-plotly-plot .plotly .modebar-btn[data-title="Toggle Spike Lines"]{
+    text-decoration: none;
+    display: none;
+}
+.plotclip {
+    display: none;
+}/* CSS */
